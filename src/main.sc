@@ -69,7 +69,6 @@ theme: /
         state: NoMatch
             event: noMatch
             a: Я не знаю такого города. Попробуйте ввести другой город
-
     state: EndGame
         intent!: /endThisGame
         a: Очень жаль! Если передумаешь — скажи "давай поиграем"

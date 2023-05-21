@@ -52,13 +52,9 @@
     }, {
       "text" : "давай играть"
     }, {
-      "text" : "человек"
+      "text" : "Привет"
     }, {
-      "text" : "пользователь"
-    }, {
-      "text" : "я"
-    }, {
-      "text" : "не ты"
+      "text" : "привет"
     } ],
     "classificationRules" : {
       "refs" : [ ]
@@ -69,7 +65,15 @@
     "path" : "/user",
     "enabled" : true,
     "shared" : false,
-    "phrases" : [ ],
+    "phrases" : [ {
+      "text" : "я"
+    }, {
+      "text" : "не ты"
+    }, {
+      "text" : "пользователь"
+    }, {
+      "text" : "человек"
+    } ],
     "classificationRules" : {
       "refs" : [ ]
     },
@@ -91,6 +95,8 @@
       "text" : "не хочу"
     }, {
       "text" : "мне надоело"
+    }, {
+      "text" : "сдаюсь"
     } ],
     "classificationRules" : {
       "refs" : [ ]
