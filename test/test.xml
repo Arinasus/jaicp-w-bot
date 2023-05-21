@@ -1,0 +1,6 @@
+<test>
+    <test-case id="1">
+    <q>привет</q>
+    <a>Привет!</a>
+    </test-case>
+</test>

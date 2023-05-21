@@ -1,0 +1,40 @@
+{
+  "positions" : [ {
+    "id" : "/Start",
+    "x" : 252,
+    "y" : 421
+  }, {
+    "id" : "/LetsPlayCitiesGame",
+    "x" : 620,
+    "y" : 450
+  }, {
+    "id" : "/EndGame",
+    "x" : 614,
+    "y" : 790
+  }, {
+    "id" : "/no",
+    "name" : "no",
+    "x" : 919,
+    "y" : 453
+  }, {
+    "id" : "/LetsPlayCitiesGame/CityPattern",
+    "x" : 240,
+    "y" : 293
+  }, {
+    "id" : "/LetsPlayCitiesGame/NoMatch",
+    "x" : 240,
+    "y" : 636
+  }, {
+    "id" : "/Start/User",
+    "x" : 240,
+    "y" : 338
+  }, {
+    "id" : "/Start/Computer",
+    "x" : 240,
+    "y" : 904
+  }, {
+    "id" : "/Start/LocalCatchAll",
+    "x" : 240,
+    "y" : 1281
+  } ]
+}

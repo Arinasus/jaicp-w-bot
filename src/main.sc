@@ -73,3 +73,8 @@ theme: /
     state: EndGame
         intent!: /endThisGame
         a: Очень жаль! Если передумаешь — скажи "давай поиграем"
+
+    state: no
+        event!: noMatch
+        a: Извините, я не понял.
+        event: noMatch || toState = "./"
